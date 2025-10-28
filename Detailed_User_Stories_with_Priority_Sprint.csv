@@ -1,0 +1,55 @@
+Epic,Actor,User Story,Acceptance Criteria,Estimation (Story Points),Business Value,Priority,Sprint
+Risk Profiling Questionnaire,Client,"As a Client, I want to complete a mobile-friendly questionnaire so that my risk appetite can be assessed.","- Questionnaire loads quickly
+- Mobile responsive design
+- Mandatory fields validated",3,700,High,Sprint 1
+Risk Profiling Questionnaire,Client,"As a Client, I want to save progress so that I can resume later.","- Save button available
+- Resume starts at last question
+- Data securely stored",3,700,High,Sprint 1
+Risk Profiling Questionnaire,Admin,"As an Admin, I want to manage questionnaire questions so that I can keep it updated.","- Add/edit/remove questions
+- Question order adjustable
+- Changes reflected in real-time",5,700,High,Sprint 1
+Risk Profiling Questionnaire,Admin,"As an Admin, I want to configure risk bands so that scores classify correctly.","- Define thresholds for Conservative, Moderate, Aggressive
+- Immediate application",5,700,High,Sprint 1
+Risk Profiling Questionnaire,Client,"As a Client, I want clear instructions so that I understand why this questionnaire is needed.","- Instructions visible at start
+- Explanation of purpose provided",2,500,Medium,Sprint 1
+Scoring Algorithm,API Consumer,"As an API Consumer, I want to send responses so that I get back a client risk score.","- API accepts valid payload
+- Score returned correctly
+- Error for invalid requests",3,700,High,Sprint 1
+Scoring Algorithm,Admin,"As an Admin, I want to update scoring weights so that the algorithm reflects policy changes.","- Weights editable via admin panel
+- Audit log of changes",3,700,High,Sprint 1
+Scoring Algorithm,API Consumer,"As an API Consumer, I want documentation so that I can integrate easily.","- API docs available
+- Example requests/responses provided",5,700,High,Sprint 1
+Scoring Algorithm,System,"As a System, I want to store score results so that historical analysis is possible.","- Store score securely
+- Link to client profile",5,700,High,Sprint 2
+Suitability Engine Logic,Wealth Advisor,"As a Wealth Advisor, I want a list of suitable products so that I can recommend them to clients.","- Product list filtered by client risk profile
+- Sorted by relevance",3,700,High,Sprint 2
+Suitability Engine Logic,Compliance Officer,"As a Compliance Officer, I want rules engine logs so that I can audit decisions.","- Logs available for review
+- Show rule applied for recommendation",3,700,High,Sprint 2
+Suitability Engine Logic,API Consumer,"As an API Consumer, I want to query recommended products so that I can embed them.","- API endpoint provided
+- Response matches risk classification",3,700,High,Sprint 2
+Suitability Engine Logic,Wealth Advisor,"As a Wealth Advisor, I want to view reasons for recommendations so that I can explain to clients.",- Reasons visible alongside products,2,700,High,Sprint 2
+API Development & Integration,API Consumer,"As an API Consumer, I want secure API endpoints so that my integration is safe.","- OAuth2 required
+- TLS encryption enforced",2,700,High,Sprint 2
+API Development & Integration,API Consumer,"As an API Consumer, I want consistent response formats so that parsing is simple.","- JSON standard format
+- Status codes used properly",2,500,Medium,Sprint 2
+API Development & Integration,Admin,"As an Admin, I want API access logs so that I can monitor usage.","- Logs show timestamp, caller, action",2,700,High,Sprint 2
+API Development & Integration,API Consumer,"As an API Consumer, I want error codes explained so that I can troubleshoot easily.",- Documentation of all error scenarios,3,700,High,Sprint 2
+UI/UX,Client,"As a Client, I want a simple and intuitive UI so that I can easily navigate.","- Clear layout
+- Large touch targets
+- Accessible font sizes",3,700,High,Sprint 2
+UI/UX,Advisor,"As an Advisor, I want my dashboard clean and responsive so that I can quickly find client info.","- Load within 2 seconds
+- Mobile/tablet friendly",3,700,High,Sprint 3
+UI/UX,Client,"As a Client, I want my answers auto-saved so that I don’t lose progress.","- Auto-save after each question
+- Resume restores state",3,700,High,Sprint 3
+Security & Compliance,Compliance Officer,"As a Compliance Officer, I want audit trails so that I can verify all actions.","- Log user actions
+- Store timestamp, actor, action",2,700,High,Sprint 3
+Security & Compliance,Admin,"As an Admin, I want role-based access so that only authorized users can make changes.","- Roles configurable
+- Permissions enforced at UI/API",3,700,High,Sprint 3
+Security & Compliance,Compliance Officer,"As a Compliance Officer, I want secure storage of client data so that regulations are met.","- Encrypt at rest
+- Encrypt in transit",3,700,High,Sprint 3
+Reporting & Dashboard,Advisor,"As an Advisor, I want dashboard reports of my clients so that I can monitor engagement.","- Report filters by date, risk profile
+- Summary charts",3,700,High,Sprint 3
+Reporting & Dashboard,Admin,"As an Admin, I want usage stats so that I can track platform adoption.",- Daily/weekly usage summary,2,700,High,Sprint 3
+Reporting & Dashboard,Reporting User,"As a Reporting User, I want export options so that I can download reports.","- Export to CSV, PDF
+- Maintain formatting",2,700,High,Sprint 3
+Reporting & Dashboard,Advisor,"As an Advisor, I want client-level drill-down so that I can view details quickly.",- Click on summary ? client detail view,3,700,High,Sprint 3

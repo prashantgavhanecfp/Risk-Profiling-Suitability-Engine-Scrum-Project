@@ -1,0 +1,16 @@
+ID,Title,Type,Priority,Status,Estimation (Story Points),Business Value,Sprint
+NFR-1,Questionnaire loads < 2 seconds under peak load,Non-functional requirement,High,Backlog,3,700,Sprint 1
+NFR-2,"Responsive UI across devices (mobile, tablet, desktop)",Non-functional requirement,High,Backlog,5,700,Sprint 1
+NFR-3,Encrypt data at rest and in transit,Non-functional requirement,High,Backlog,5,700,Sprint 1
+NFR-4,99.9% API uptime target,Non-functional requirement,Medium,Backlog,2,500,Sprint 1
+RISK-1,Load testing before go-live,Risk mitigation,High,Backlog,5,700,Sprint 2
+RISK-2,Fallback mechanism for 3rd party API failure,Risk mitigation,Medium,Backlog,3,500,Sprint 2
+RISK-3,Vulnerability scan before launch,Risk mitigation,High,Backlog,5,700,Sprint 2
+TD-1,Refactor questionnaire UI code after MVP,Technical debt,Medium,Backlog,3,500,Sprint 3
+TD-2,Improve unit test coverage to 90%,Technical debt,Medium,Backlog,3,500,Sprint 3
+ARCH-1,Define API contract/specification (OpenAPI),Architectural,Medium,Backlog,2,500,Sprint 3
+ARCH-2,Database schema design for risk profile storage,Architectural,High,Backlog,5,700,Sprint 3
+ARCH-3,Design authentication/authorization mechanism (RBAC),Architectural,High,Backlog,5,700,Sprint 4
+INF-1,Setup staging environment,Infrastructure,High,Backlog,5,700,Sprint 4
+INF-2,CI/CD pipeline setup for automated deployment,Infrastructure,Medium,Backlog,3,500,Sprint 4
+INF-3,Implement monitoring and logging tools,Infrastructure,Medium,Backlog,3,500,Sprint 4
