@@ -1,0 +1,82 @@
+Sprint,Epic,User Story,Task
+Sprint 1,Risk Profiling Questionnaire,"As a Client, I want to complete a mobile-friendly questionnaire so that my risk appetite can be assessed.",Task 1: Analyze and refine requirements
+Sprint 1,Risk Profiling Questionnaire,"As a Client, I want to complete a mobile-friendly questionnaire so that my risk appetite can be assessed.",Task 2: Implement functionality
+Sprint 1,Risk Profiling Questionnaire,"As a Client, I want to complete a mobile-friendly questionnaire so that my risk appetite can be assessed.",Task 3: Unit test and validate acceptance criteria
+Sprint 1,Risk Profiling Questionnaire,"As a Client, I want to save progress so that I can resume later.",Task 1: Analyze and refine requirements
+Sprint 1,Risk Profiling Questionnaire,"As a Client, I want to save progress so that I can resume later.",Task 2: Implement functionality
+Sprint 1,Risk Profiling Questionnaire,"As a Client, I want to save progress so that I can resume later.",Task 3: Unit test and validate acceptance criteria
+Sprint 1,Risk Profiling Questionnaire,"As an Admin, I want to manage questionnaire questions so that I can keep it updated.",Task 1: Analyze and refine requirements
+Sprint 1,Risk Profiling Questionnaire,"As an Admin, I want to manage questionnaire questions so that I can keep it updated.",Task 2: Implement functionality
+Sprint 1,Risk Profiling Questionnaire,"As an Admin, I want to manage questionnaire questions so that I can keep it updated.",Task 3: Unit test and validate acceptance criteria
+Sprint 1,Risk Profiling Questionnaire,"As an Admin, I want to configure risk bands so that scores classify correctly.",Task 1: Analyze and refine requirements
+Sprint 1,Risk Profiling Questionnaire,"As an Admin, I want to configure risk bands so that scores classify correctly.",Task 2: Implement functionality
+Sprint 1,Risk Profiling Questionnaire,"As an Admin, I want to configure risk bands so that scores classify correctly.",Task 3: Unit test and validate acceptance criteria
+Sprint 1,Risk Profiling Questionnaire,"As a Client, I want clear instructions so that I understand why this questionnaire is needed.",Task 1: Analyze and refine requirements
+Sprint 1,Risk Profiling Questionnaire,"As a Client, I want clear instructions so that I understand why this questionnaire is needed.",Task 2: Implement functionality
+Sprint 1,Risk Profiling Questionnaire,"As a Client, I want clear instructions so that I understand why this questionnaire is needed.",Task 3: Unit test and validate acceptance criteria
+Sprint 1,Scoring Algorithm,"As an API Consumer, I want to send responses so that I get back a client risk score.",Task 1: Analyze and refine requirements
+Sprint 1,Scoring Algorithm,"As an API Consumer, I want to send responses so that I get back a client risk score.",Task 2: Implement functionality
+Sprint 1,Scoring Algorithm,"As an API Consumer, I want to send responses so that I get back a client risk score.",Task 3: Unit test and validate acceptance criteria
+Sprint 1,Scoring Algorithm,"As an Admin, I want to update scoring weights so that the algorithm reflects policy changes.",Task 1: Analyze and refine requirements
+Sprint 1,Scoring Algorithm,"As an Admin, I want to update scoring weights so that the algorithm reflects policy changes.",Task 2: Implement functionality
+Sprint 1,Scoring Algorithm,"As an Admin, I want to update scoring weights so that the algorithm reflects policy changes.",Task 3: Unit test and validate acceptance criteria
+Sprint 1,Scoring Algorithm,"As an API Consumer, I want documentation so that I can integrate easily.",Task 1: Analyze and refine requirements
+Sprint 1,Scoring Algorithm,"As an API Consumer, I want documentation so that I can integrate easily.",Task 2: Implement functionality
+Sprint 1,Scoring Algorithm,"As an API Consumer, I want documentation so that I can integrate easily.",Task 3: Unit test and validate acceptance criteria
+Sprint 2,Scoring Algorithm,"As a System, I want to store score results so that historical analysis is possible.",Task 1: Analyze and refine requirements
+Sprint 2,Scoring Algorithm,"As a System, I want to store score results so that historical analysis is possible.",Task 2: Implement functionality
+Sprint 2,Scoring Algorithm,"As a System, I want to store score results so that historical analysis is possible.",Task 3: Unit test and validate acceptance criteria
+Sprint 2,Suitability Engine Logic,"As a Wealth Advisor, I want a list of suitable products so that I can recommend them to clients.",Task 1: Analyze and refine requirements
+Sprint 2,Suitability Engine Logic,"As a Wealth Advisor, I want a list of suitable products so that I can recommend them to clients.",Task 2: Implement functionality
+Sprint 2,Suitability Engine Logic,"As a Wealth Advisor, I want a list of suitable products so that I can recommend them to clients.",Task 3: Unit test and validate acceptance criteria
+Sprint 2,Suitability Engine Logic,"As a Compliance Officer, I want rules engine logs so that I can audit decisions.",Task 1: Analyze and refine requirements
+Sprint 2,Suitability Engine Logic,"As a Compliance Officer, I want rules engine logs so that I can audit decisions.",Task 2: Implement functionality
+Sprint 2,Suitability Engine Logic,"As a Compliance Officer, I want rules engine logs so that I can audit decisions.",Task 3: Unit test and validate acceptance criteria
+Sprint 2,Suitability Engine Logic,"As an API Consumer, I want to query recommended products so that I can embed them.",Task 1: Analyze and refine requirements
+Sprint 2,Suitability Engine Logic,"As an API Consumer, I want to query recommended products so that I can embed them.",Task 2: Implement functionality
+Sprint 2,Suitability Engine Logic,"As an API Consumer, I want to query recommended products so that I can embed them.",Task 3: Unit test and validate acceptance criteria
+Sprint 2,Suitability Engine Logic,"As a Wealth Advisor, I want to view reasons for recommendations so that I can explain to clients.",Task 1: Analyze and refine requirements
+Sprint 2,Suitability Engine Logic,"As a Wealth Advisor, I want to view reasons for recommendations so that I can explain to clients.",Task 2: Implement functionality
+Sprint 2,Suitability Engine Logic,"As a Wealth Advisor, I want to view reasons for recommendations so that I can explain to clients.",Task 3: Unit test and validate acceptance criteria
+Sprint 2,API Development & Integration,"As an API Consumer, I want secure API endpoints so that my integration is safe.",Task 1: Analyze and refine requirements
+Sprint 2,API Development & Integration,"As an API Consumer, I want secure API endpoints so that my integration is safe.",Task 2: Implement functionality
+Sprint 2,API Development & Integration,"As an API Consumer, I want secure API endpoints so that my integration is safe.",Task 3: Unit test and validate acceptance criteria
+Sprint 2,API Development & Integration,"As an API Consumer, I want consistent response formats so that parsing is simple.",Task 1: Analyze and refine requirements
+Sprint 2,API Development & Integration,"As an API Consumer, I want consistent response formats so that parsing is simple.",Task 2: Implement functionality
+Sprint 2,API Development & Integration,"As an API Consumer, I want consistent response formats so that parsing is simple.",Task 3: Unit test and validate acceptance criteria
+Sprint 2,API Development & Integration,"As an Admin, I want API access logs so that I can monitor usage.",Task 1: Analyze and refine requirements
+Sprint 2,API Development & Integration,"As an Admin, I want API access logs so that I can monitor usage.",Task 2: Implement functionality
+Sprint 2,API Development & Integration,"As an Admin, I want API access logs so that I can monitor usage.",Task 3: Unit test and validate acceptance criteria
+Sprint 2,API Development & Integration,"As an API Consumer, I want error codes explained so that I can troubleshoot easily.",Task 1: Analyze and refine requirements
+Sprint 2,API Development & Integration,"As an API Consumer, I want error codes explained so that I can troubleshoot easily.",Task 2: Implement functionality
+Sprint 2,API Development & Integration,"As an API Consumer, I want error codes explained so that I can troubleshoot easily.",Task 3: Unit test and validate acceptance criteria
+Sprint 2,UI/UX,"As a Client, I want a simple and intuitive UI so that I can easily navigate.",Task 1: Analyze and refine requirements
+Sprint 2,UI/UX,"As a Client, I want a simple and intuitive UI so that I can easily navigate.",Task 2: Implement functionality
+Sprint 2,UI/UX,"As a Client, I want a simple and intuitive UI so that I can easily navigate.",Task 3: Unit test and validate acceptance criteria
+Sprint 3,UI/UX,"As an Advisor, I want my dashboard clean and responsive so that I can quickly find client info.",Task 1: Analyze and refine requirements
+Sprint 3,UI/UX,"As an Advisor, I want my dashboard clean and responsive so that I can quickly find client info.",Task 2: Implement functionality
+Sprint 3,UI/UX,"As an Advisor, I want my dashboard clean and responsive so that I can quickly find client info.",Task 3: Unit test and validate acceptance criteria
+Sprint 3,UI/UX,"As a Client, I want my answers auto-saved so that I don’t lose progress.",Task 1: Analyze and refine requirements
+Sprint 3,UI/UX,"As a Client, I want my answers auto-saved so that I don’t lose progress.",Task 2: Implement functionality
+Sprint 3,UI/UX,"As a Client, I want my answers auto-saved so that I don’t lose progress.",Task 3: Unit test and validate acceptance criteria
+Sprint 3,Security & Compliance,"As a Compliance Officer, I want audit trails so that I can verify all actions.",Task 1: Analyze and refine requirements
+Sprint 3,Security & Compliance,"As a Compliance Officer, I want audit trails so that I can verify all actions.",Task 2: Implement functionality
+Sprint 3,Security & Compliance,"As a Compliance Officer, I want audit trails so that I can verify all actions.",Task 3: Unit test and validate acceptance criteria
+Sprint 3,Security & Compliance,"As an Admin, I want role-based access so that only authorized users can make changes.",Task 1: Analyze and refine requirements
+Sprint 3,Security & Compliance,"As an Admin, I want role-based access so that only authorized users can make changes.",Task 2: Implement functionality
+Sprint 3,Security & Compliance,"As an Admin, I want role-based access so that only authorized users can make changes.",Task 3: Unit test and validate acceptance criteria
+Sprint 3,Security & Compliance,"As a Compliance Officer, I want secure storage of client data so that regulations are met.",Task 1: Analyze and refine requirements
+Sprint 3,Security & Compliance,"As a Compliance Officer, I want secure storage of client data so that regulations are met.",Task 2: Implement functionality
+Sprint 3,Security & Compliance,"As a Compliance Officer, I want secure storage of client data so that regulations are met.",Task 3: Unit test and validate acceptance criteria
+Sprint 3,Reporting & Dashboard,"As an Advisor, I want dashboard reports of my clients so that I can monitor engagement.",Task 1: Analyze and refine requirements
+Sprint 3,Reporting & Dashboard,"As an Advisor, I want dashboard reports of my clients so that I can monitor engagement.",Task 2: Implement functionality
+Sprint 3,Reporting & Dashboard,"As an Advisor, I want dashboard reports of my clients so that I can monitor engagement.",Task 3: Unit test and validate acceptance criteria
+Sprint 3,Reporting & Dashboard,"As an Admin, I want usage stats so that I can track platform adoption.",Task 1: Analyze and refine requirements
+Sprint 3,Reporting & Dashboard,"As an Admin, I want usage stats so that I can track platform adoption.",Task 2: Implement functionality
+Sprint 3,Reporting & Dashboard,"As an Admin, I want usage stats so that I can track platform adoption.",Task 3: Unit test and validate acceptance criteria
+Sprint 3,Reporting & Dashboard,"As a Reporting User, I want export options so that I can download reports.",Task 1: Analyze and refine requirements
+Sprint 3,Reporting & Dashboard,"As a Reporting User, I want export options so that I can download reports.",Task 2: Implement functionality
+Sprint 3,Reporting & Dashboard,"As a Reporting User, I want export options so that I can download reports.",Task 3: Unit test and validate acceptance criteria
+Sprint 3,Reporting & Dashboard,"As an Advisor, I want client-level drill-down so that I can view details quickly.",Task 1: Analyze and refine requirements
+Sprint 3,Reporting & Dashboard,"As an Advisor, I want client-level drill-down so that I can view details quickly.",Task 2: Implement functionality
+Sprint 3,Reporting & Dashboard,"As an Advisor, I want client-level drill-down so that I can view details quickly.",Task 3: Unit test and validate acceptance criteria
